@@ -9,9 +9,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-d4af37?style=flat-square&labelColor=0b1220" alt="status" />
+<!-- <img src="https://img.shields.io/badge/Open%20to-Collaboration-d4af37?style=flat-square&labelColor=0b1220" alt="status" />
 <img src="https://img.shields.io/badge/Focus-LLM%20Apps-1e3a5f?style=flat-square&labelColor=0b1220" alt="focus" />
-<img src="https://komarev.com/ghpvc/?username=sharmadhruv259&label=Profile%20views&color=1e3a5f&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=sharmadhruv259&label=Profile%20views&color=1e3a5f&style=flat-square" alt="views" /> -->
 
 </div>
 
@@ -23,10 +23,9 @@
 
 <p align="center">
 I'm <b>Dhruv</b>, a developer who enjoys crafting thoughtful software with <b>Python</b>, <b>TypeScript</b> and <b>large language models</b>.<br/>
-I build the whole stack, from the Django and LangChain backend to a polished Next.js interface.
 </p>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>🔭 &nbsp;<b>Currently</b></td>
     <td>Building chatbots and tool-using agents with LangChain and Groq</td>
@@ -39,7 +38,7 @@ I build the whole stack, from the Django and LangChain backend to a polished Nex
     <td>💬 &nbsp;<b>Ask me about</b></td>
     <td>Django, Next.js, LLM tooling</td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -60,7 +59,7 @@ I build the whole stack, from the Django and LangChain backend to a polished Nex
 
 ---
 
-<h2 align="center">✦ &nbsp;Featured Projects&nbsp; ✦</h2>
+<!-- <h2 align="center">✦ &nbsp;Featured Projects&nbsp; ✦</h2>
 
 <div align="center">
 
@@ -77,9 +76,10 @@ I build the whole stack, from the Django and LangChain backend to a polished Nex
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sharmadhruv259&repo=first-django&bg_color=0b1220&title_color=d4af37&text_color=9ca3af&icon_color=d4af37&border_color=1f2a44&hide_border=false" alt="first-django" />
 </a>
 
-</div>
+</div> -->
 
-<details>
+<!-- <details>
+
 <summary><b>What each project does</b></summary>
 <br/>
 
@@ -90,7 +90,7 @@ I build the whole stack, from the Django and LangChain backend to a polished Nex
 | **langchain-agent-frontend** | A clean chat interface for the tool-enabled agent |
 | **first-django** | My first steps into Django |
 
-</details>
+</details> -->
 
 ---
 
