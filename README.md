@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1220,60:13233f,100:1e3a5f&text=Dhruv%20Sharma&fontColor=f5f1e6&fontSize=52&fontAlignY=40&desc=Developer%20%C2%B7%20AI%20Applications%20%C2%B7%20Full-Stack&descColor=d4af37&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Dhruv Sharma" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=560&lines=Building+LLM-powered+chatbots+and+agents;Python+%C2%B7+TypeScript+%C2%B7+Django+%C2%B7+Next.js;Turning+ideas+into+clean%2C+working+products" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=I+code%2C+I+learn%2C+I+debug%2C+and+I+blame+the+bugs;Building+LLM-powered+chatbots+and+agents;Python+%C2%B7+TypeScript+%C2%B7+Django+%C2%B7+Next.js;Turning+ideas+into+clean%2C+working+products" alt="typing" />
+  
 </a>
 
 <br/><br/>
